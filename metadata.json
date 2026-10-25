@@ -1,0 +1,6 @@
+{
+  "name": "Ghost Data Audit",
+  "description": "An evidence-based deletion case auditor verifying data deletion requests, detecting residual ghost data, active sync flows, and restore risks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
